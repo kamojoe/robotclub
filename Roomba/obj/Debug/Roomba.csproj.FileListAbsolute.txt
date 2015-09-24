@@ -13,3 +13,6 @@ C:\Users\cswendrowski\Documents\Roomba\Roomba\obj\Debug\Roomba.pdb
 C:\Users\cswendrowski\Documents\Roomba\Roomba\bin\Debug\Roomba.exe
 C:\Users\cswendrowski\Documents\Roomba\Roomba\bin\Debug\Roomba.pdb
 C:\Users\cswendrowski\Documents\Roomba\Roomba\obj\Debug\Roomba.csprojResolveAssemblyReference.cache
+C:\Dev\robotclub\Roomba\bin\Debug\Roomba.exe.config
+C:\Dev\robotclub\Roomba\obj\Debug\Roomba.exe
+C:\Dev\robotclub\Roomba\obj\Debug\Roomba.pdb

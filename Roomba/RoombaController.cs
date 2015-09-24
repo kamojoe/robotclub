@@ -1,12 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace Roomba
 {
-    public class RoombaController
+    internal class RoombaController
     {
-        private readonly Roomba _roomba = new Roomba();
+        private readonly RoombaDataAccess _roomba = new RoombaDataAccess();
         private OperationMode _currentMode = OperationMode.Off;
 
         public enum OperationMode

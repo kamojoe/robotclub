@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System.IO.Ports;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Roomba
 {
-    public class Roomba : IDisposable
+    internal class RoombaDataAccess : IDisposable
     {
         private SerialPort IO;
 
